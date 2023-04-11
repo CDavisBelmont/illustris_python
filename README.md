@@ -14,3 +14,4 @@ git clone git@github.com:illustristng/illustris_python.git
 cd illustris_python
 pip install .
 ```
+blah blah blah other stuff for my brain only. 
